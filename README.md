@@ -1,8 +1,14 @@
-<p align="center">
+<div align="center">
   <img src="./git_hub_header.png" width="700"/>
-</p>
+</div>
 
+<br>
 
+<h3 align="center">:star: Introduction :star:</h3>
+<div align="center">
+  안녕하세요! <br>
+  열심히 배우며 성장하는 2년차 개발자 김나연 입니다.
+</div>
 
 <!--
 **na-yeun/na-yeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
