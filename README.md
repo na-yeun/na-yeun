@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Blur)
+<p align="center">
+  <img src="./git_hub_header.png" width="700"/>
+</p>
 
 
-## Hi there 👋
 
 <!--
 **na-yeun/na-yeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
